@@ -10,3 +10,7 @@ For compiling C executable programs.
 
 For compiling C libraries.
 
+### c-executable-library-makefile
+
+For compiling a library which also contains an executable.
+
