@@ -2,11 +2,11 @@
 
 A collection of makefiles for various use cases.
 
-### executable
+### c-executable-makefile
 
 For compiling C executable programs.
 
-### library
+### c-library-makefile
 
 For compiling C libraries.
 
