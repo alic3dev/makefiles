@@ -2,6 +2,20 @@
 
 A collection of makefiles for various use cases.
 
+## defaults
+
+### c compiler
+
+```makefile
+CC=gcc
+```
+
+### linker
+
+```makefile
+LD=ld
+```
+
 ## descriptions
 
 ### c-executable-makefile
